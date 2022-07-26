@@ -7,17 +7,14 @@
 _Main Page_
 <img width="1439" alt="Gofit-Main" src="https://user-images.githubusercontent.com/100962211/181088237-1821523e-3a60-4b96-95a1-9ae81e24c61f.png">
 
-_Login Page_
-<img width="1435" alt="Gofit-Login" src="https://user-images.githubusercontent.com/100962211/181088331-6f253c0b-35bd-4ba6-ad1b-24fd84aaf316.png">
-
 _User Profile Page_ 
-<img width="1423" alt="Gofit-Profile" src="https://user-images.githubusercontent.com/100962211/181088540-fb938911-16e3-4410-a05b-cd7ce2797d7f.png">
+<img width="1385" alt="Gofit-UserProfile" src="https://user-images.githubusercontent.com/100962211/181103047-1acc2b7b-4b5c-4259-8f71-9c9d33eb94c7.png">
 
 _Create Post Page_ 
-<img width="1437" alt="Gofit-Post" src="https://user-images.githubusercontent.com/100962211/181088676-e74a202c-5384-4c5a-955f-12a469dfd303.png">
+<img width="1322" alt="Gofit-Post" src="https://user-images.githubusercontent.com/100962211/181103736-06a844c8-d718-486a-b56f-b22babe2eed7.png">
 
 _Send Invitation Page_ 
-<img width="1437" alt="Gofit-SendInvitation" src="https://user-images.githubusercontent.com/100962211/181095266-b5454f6b-750a-4cfe-9268-fb83a05d5681.png">
+<img width="1400" alt="Gofit-SendInvitation" src="https://user-images.githubusercontent.com/100962211/181103535-de811445-527b-406e-b034-8617dcbd5171.png">
 
 _Invitation Detail Page_ 
 <img width="1440" alt="Gofit-SentInvitation" src="https://user-images.githubusercontent.com/100962211/181088972-dc0d9adc-7ab8-46f7-9945-5d5f6a377a02.png">
