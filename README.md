@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Welcome to GoFit! 
+- A React based fitness social network application, where users can connect with nearby gym buddies, upload and share images, chat, and send invitations to workout together.
+- With the ongoing pandemic, people have become socially disconnected which can impact on our mental health. Exercise is one of the valuable tools for improving our mental health, GoFit promotes exercise and at the same time builds social circles. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Final Product
 
-## Available Scripts
+_Main Page_
+<img width="1439" alt="Gofit-Main" src="https://user-images.githubusercontent.com/100962211/181088237-1821523e-3a60-4b96-95a1-9ae81e24c61f.png">
 
-In the project directory, you can run:
+_Login Page_
+<img width="1435" alt="Gofit-Login" src="https://user-images.githubusercontent.com/100962211/181088331-6f253c0b-35bd-4ba6-ad1b-24fd84aaf316.png">
 
-### `npm start`
+_User Profile Page_ 
+<img width="1423" alt="Gofit-Profile" src="https://user-images.githubusercontent.com/100962211/181088540-fb938911-16e3-4410-a05b-cd7ce2797d7f.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+_Create Post Page_ 
+<img width="1437" alt="Gofit-Post" src="https://user-images.githubusercontent.com/100962211/181088676-e74a202c-5384-4c5a-955f-12a469dfd303.png">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+_Send Invitation Page_ 
+<img width="1437" alt="Gofit-SendInvitation" src="https://user-images.githubusercontent.com/100962211/181095266-b5454f6b-750a-4cfe-9268-fb83a05d5681.png">
 
-### `npm test`
+_Invitation Detail Page_ 
+<img width="1440" alt="Gofit-SentInvitation" src="https://user-images.githubusercontent.com/100962211/181088972-dc0d9adc-7ab8-46f7-9945-5d5f6a377a02.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_Appointment Review Page_ 
+<img width="1438" alt="Gofit-RateAppt" src="https://user-images.githubusercontent.com/100962211/181089335-f3025338-f6a0-4789-a070-82eba9bc1080.png">
 
-### `npm run build`
+## Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Go to Gofit-Api Page (https://github.com/jeynakim/go-fit-api) 
+Install dependencies with `npm install`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Create .env file based on .env.example
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Running Webpack Development Server
 
-### `npm run eject`
+```sh
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Install dependencies with `npm install` with Gofit Root 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. Create .env file based on .env.example
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+6. Running Webpack Development Server
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```sh
+npm start
+```
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Dependencies
+- React
+- Node.js
+- MongoDB
+- Express
+- GetStream
+- AWS S3 and MULTER S3
+- Bcrypt
